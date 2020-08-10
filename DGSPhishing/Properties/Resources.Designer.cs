@@ -63,9 +63,9 @@ namespace DGSPhishing.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap _3d_render_robot_with_shield_1048_5702 {
+        internal static System.Drawing.Bitmap shield {
             get {
-                object obj = ResourceManager.GetObject("3d-render-robot-with-shield_1048-5702", resourceCulture);
+                object obj = ResourceManager.GetObject("shield", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

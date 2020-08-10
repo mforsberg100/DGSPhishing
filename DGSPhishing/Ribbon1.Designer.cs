@@ -58,7 +58,7 @@
             // button1
             // 
             this.button1.ControlSize = Microsoft.Office.Core.RibbonControlSize.RibbonControlSizeLarge;
-            this.button1.Image = global::DGSPhishing.Properties.Resources._3d_render_robot_with_shield_1048_5702;
+            this.button1.Image = global::DGSPhishing.Properties.Resources.shield;
             this.button1.Label = "Report Phishing";
             this.button1.Name = "button1";
             this.button1.ScreenTip = "Report selected email as spam";
